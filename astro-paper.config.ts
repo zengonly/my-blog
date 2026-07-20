@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://example.com/",
+    url: "https://my-blog-90i.pages.dev/",
     title: "架构与认知",
     description: "记录 AI 时代全栈工程师在架构与认知层面的思考。",
     author: "Sunny Zeng",
