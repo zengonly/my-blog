@@ -6,7 +6,7 @@ export default defineAstroPaperConfig({
     title: "架构与认知",
     description: "记录 AI 时代全栈工程师在架构与认知层面的思考。",
     author: "Sunny Zeng",
-    profile: "https://github.com/sunnyzeng",
+    profile: "https://github.com/zengonly",
     ogImage: "default-og.jpg",
     lang: "zh-CN",
     timezone: "Asia/Shanghai",
@@ -24,12 +24,12 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/sunnyzeng/my-blog/edit/main/",
+      url: "https://github.com/zengonly/my-blog/edit/main/",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github", url: "https://github.com/sunnyzeng" },
+    { name: "github", url: "https://github.com/zengonly" },
     { name: "mail", url: "mailto:sunny@example.com" },
   ],
   shareLinks: [
