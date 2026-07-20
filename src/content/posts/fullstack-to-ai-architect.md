@@ -2,11 +2,12 @@
 author: Sunny Zeng
 pubDatetime: 2026-07-22T08:00:00.000Z
 title: "从全栈到 AI 工程师：转型路径与陷阱"
+draft: true
 tags:
   - 全栈
   - AI
   - 转型
-description: "讨论从传统全栈工程师转向 AI 应用工程师的路径、关键能力、以及常见的认知陷阱。"
+description: "草稿：讨论从传统全栈工程师转向 AI 应用工程师的路径、关键能力、以及常见的认知陷阱。"
 ---
 
 > 草稿占位。计划在编辑后正式发布。
