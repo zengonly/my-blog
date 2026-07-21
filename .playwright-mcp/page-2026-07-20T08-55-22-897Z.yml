@@ -1,0 +1,69 @@
+- generic [active] [ref=e1]:
+  - link "跳到主要内容" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "架构与认知" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "文章" [ref=e9] [cursor=pointer]:
+              - /url: /posts/
+          - listitem [ref=e10]:
+            - link "标签" [ref=e11] [cursor=pointer]:
+              - /url: /tags/
+          - listitem [ref=e12]:
+            - link "关于" [ref=e13] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=e14]:
+            - link "归档" [ref=e15] [cursor=pointer]:
+              - /url: /archives/
+          - listitem [ref=e20]:
+            - link "搜索" [ref=e21] [cursor=pointer]:
+              - /url: /search/
+          - listitem [ref=e26]:
+            - button "light" [ref=e27] [cursor=pointer]
+  - main [ref=e31]:
+    - generic [ref=e32]:
+      - heading "架构与认知" [level=1] [ref=e33]
+      - link "RSS Feed" [ref=e34] [cursor=pointer]:
+        - /url: /rss.xml
+      - paragraph [ref=e39]: AI 时代全栈工程师关于架构与认知的零碎思考。
+      - paragraph [ref=e40]:
+        - text: 长文为主，更新节奏约每周一篇。订阅
+        - link "RSS" [ref=e41] [cursor=pointer]:
+          - /url: /rss.xml
+        - text: 或在
+        - link "关于页" [ref=e42] [cursor=pointer]:
+          - /url: /about/
+        - text: 了解更多。
+      - generic [ref=e43]:
+        - generic [ref=e44]: "社交链接:"
+        - generic [ref=e45]:
+          - link "架构与认知 on Github" [ref=e46] [cursor=pointer]:
+            - /url: https://github.com/zengonly
+          - link "Send an email to 架构与认知" [ref=e51] [cursor=pointer]:
+            - /url: mailto:sunny@example.com
+    - generic [ref=e57]:
+      - heading "精选" [level=2] [ref=e58]
+      - list [ref=e59]:
+        - listitem [ref=e60]:
+          - link [ref=e61] [cursor=pointer]:
+            - /url: /posts/why-this-blog/
+            - heading "为什么开这个博客" [level=3] [ref=e62]
+          - time [ref=e67]: 20 Jul, 2026
+          - paragraph [ref=e68]: 关于这个博客的初衷、定位和写作约定。
+    - link "所有文章" [ref=e70] [cursor=pointer]:
+      - /url: /posts/
+  - contentinfo [ref=e74]:
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - link "架构与认知 on Github" [ref=e77] [cursor=pointer]:
+          - /url: https://github.com/zengonly
+        - link "Send an email to 架构与认知" [ref=e82] [cursor=pointer]:
+          - /url: mailto:sunny@example.com
+      - generic [ref=e88]:
+        - generic [ref=e89]: 版权所有 © 2026
+        - generic [ref=e90]: "|"
+        - generic [ref=e91]: 保留所有权利。
